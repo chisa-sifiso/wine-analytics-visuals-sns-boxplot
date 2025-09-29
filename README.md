@@ -70,6 +70,9 @@ python analysis.py
 
 Price Distribution
 
+<img width="649" height="446" alt="image" src="https://github.com/user-attachments/assets/3c430814-540c-4522-a387-23d0e13b6f29" />
+<img width="658" height="468" alt="image" src="https://github.com/user-attachments/assets/0edc0797-dd8d-4153-acec-5092f78c0e19" />
+<img width="523" height="387" alt="image" src="https://github.com/user-attachments/assets/caf69ef1-c00e-42b6-9834-8fbaa75e3674" />
 
 Wine Price by Country
 
