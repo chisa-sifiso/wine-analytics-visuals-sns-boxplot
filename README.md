@@ -53,7 +53,7 @@ wine-analytics-visuals/
 
 Clone the repo:
 
-git clone https://github.com/your-username/wine-analytics-visuals.git
+git clone (https://github.com/chisa-sifiso/wine-analytics-visuals-sns-boxplot/blob/main/README.md)
 cd wine-analytics-visuals
 
 
