@@ -1,4 +1,6 @@
-📄 README.md
+📄 
+excerse of data science 
+README.md
 # 🍷 Wine Analytics Visuals
 
 This project explores the **Wine Reviews dataset** (`winemag-data-130k-v2.csv`) using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.  
